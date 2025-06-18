@@ -31,9 +31,9 @@ Sou apaixonado por pesquisa aplicada, soluções inovadoras em dados e tecnologi
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [Projeto de Mestrado](#) | Dissertação sobre [Técnicas de Pré-processamento de Direção Autônoma] | OpenCV, YoloP, Semantic Segmentation |
+| [Projeto de Mestrado](#) | Dissertação sobre [Pré-processamento em Direção Autônoma] | OpenCV, YoloP, Semantic Segmentation |
 | [Projetos Open Source](#) | Projetos realizados em cursos complementares | Django, Angular, Kotlin, Docker |
-| [Análises de Dados](#) | Repositórios com análises práticas e explorações de dados | Python, Pandas, Matplotlib |
+| [Análises de Dados](#) | Repositórios com análises práticas e explorações de dados | Python, PowerBI, Spark |
 
 *Clique nos projetos para mais detalhes (atualização contínua).*
 
