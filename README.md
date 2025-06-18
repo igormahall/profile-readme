@@ -21,8 +21,9 @@ Python · Django · Angular · Kotlin · Apache Spark · YOLO · OpenCV
 ---
 
 ## 🌟 Projetos em destaque
-- **[pollab-app-django](https://github.com/igormahall/pollab-app-django)**: API REST em Django + PostgreSQL para sistema de votação em tempo real.  
-- **[phd-wavelet-experiments](https://github.com/igormahall/phd-wavelet-experiments)**: Scripts Python para análise de sinais via wavelets em imagens.
+- **[pollab-backend](https://github.com/igormahall/pollab-backend)**: API REST desenvolvida em Django + PostgreSQL para o sistema de enquetes “Pollab”, com endpoints seguros, autenticação básica e documentação Swagger.
+- **[pollab-frontend](https://github.com/igormahall/pollab-frontend)**: Frontend SPA em Angular/TypeScript para consumo da API “Pollab”, com interface responsiva e componentes dinâmicos.
+- **[pollab-mobile](https://github.com/igormahall/pollab-mobile)**: Aplicativo Android desenvolvido com Kotlin e Jetpack Compose, oferecendo uma experiência mobile completa para criar e participar de enquetes.
 
 Veja mais projetos no meu perfil 👇
 
