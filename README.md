@@ -1,40 +1,45 @@
-# 👋 Olá, eu sou **Igor Mahall**
+# 👋 Hi, I am **Igor Mahall**
+
+PhD in Computer Vision, with 15+ years of experience in industry and a recent shift into Data Engineering and Fullstack Development. My focus is on building robust systems that solve real-world problems using Python, Django, Angular, and Kotlin.
 
 ---
 
-## 🚀 Sobre mim
-Engenheiro de Dados em transição, com sólida base em engenharia e pesquisa aplicada. Atualmente doutorando em Processamento de Sinais com foco em Visão Computacional e Análise de Dados.  
-Apaixonado por transformar dados em valor e códigos em soluções reais.
+## 🔧 Technologies
+- **Languages:** Python, Kotlin, JavaScript/TypeScript
+- **Frameworks:** Django, Angular, Jetpack Compose
+- **Tools:** PostgreSQL, Docker, Git, REST APIs
+- **AI/ML:** OpenCV, YOLO, Scikit-learn
 
 ---
 
-## 🧰 Tecnologias
-Python · Django · Angular · Kotlin · Apache Spark · YOLO · OpenCV
+## 🎯 Interests
+- Computer Vision 
+- Data Engineering
+- Backend Architecture
+- Mobile development with clean UI/UX
 
 ---
 
-## 🎯 Áreas de Interesse
-- Engenharia de Dados  
-- Backend  
-- Visão Computacional
+## 🌟 Featured Projects
+- **[pollab-backend](https://github.com/igormahall/pollab-backend)**: REST API built with Django and PostgreSQL for the “Pollab” voting system. Includes secure endpoints, basic authentication, and Swagger documentation.
+- **[pollab-frontend](https://github.com/igormahall/pollab-frontend)**: Single-page Angular/TypeScript application that consumes the Pollab API, featuring a responsive layout and dynamic UI components
+- **[pollab-mobile](https://github.com/igormahall/pollab-mobile)**: Android app developed with Kotlin and Jetpack Compose, providing a full mobile experience to create and vote in polls.
 
 ---
 
-## 🌟 Projetos em destaque
-- **[pollab-backend](https://github.com/igormahall/pollab-backend)**: API REST desenvolvida em Django + PostgreSQL para o sistema de enquetes “Pollab”, com endpoints seguros, autenticação básica e documentação Swagger.
-- **[pollab-frontend](https://github.com/igormahall/pollab-frontend)**: Frontend SPA em Angular/TypeScript para consumo da API “Pollab”, com interface responsiva e componentes dinâmicos.
-- **[pollab-mobile](https://github.com/igormahall/pollab-mobile)**: Aplicativo Android desenvolvido com Kotlin e Jetpack Compose, oferecendo uma experiência mobile completa para criar e participar de enquetes.
+## 🌐 Live Projects
 
-Veja mais projetos no meu perfil 👇
+[![Pollab Web App](https://img.shields.io/badge/Pollab%20Web-Online-green?logo=google-chrome&style=flat-square)](https://pollab-web.netlify.app/)  
+[![Join Test Group](https://img.shields.io/badge/Join%20Android%20Testers-PlayStore-blue?logo=google-play&style=flat-square)](https://groups.google.com/g/pollab-app)
 
 ---
 
-## 📫 Contato
+## 📫 Contact me
 🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-mahall)  
-✉️ Email disponível sob consulta via LinkedIn
+✉️ Email available upon request via LinkedIn
 
 ---
 
-## 📈 Estatísticas GitHub
+## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=igormahall&show_icons=true&theme=dark&include_all_commits=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igormahall&layout=compact)
